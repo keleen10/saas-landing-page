@@ -17,7 +17,7 @@ A modern, responsive SaaS landing page built with Next.js 14, TypeScript, Tailwi
 
 ## 🚀 Live Demo
 
-Check out the live demo at [Vercel Deployment](https://your-vercel-url-here)
+Check out the live demo at [Vercel Deployment](https://gigfin.vercel.app/)
 
 ## 💻 Getting Started
 
@@ -30,7 +30,7 @@ Check out the live demo at [Vercel Deployment](https://your-vercel-url-here)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/saas-landing-page.git
+git clone https://github.com/keleen10/saas-landing-page.git
 cd saas-landing-page
 ```
 
@@ -89,4 +89,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/saas-landing-page](https://github.com/yourusername/saas-landing-page) 
+Project Link: [https://github.com/keleen10/saas-landing-page](https://github.com/keleen10/saas-landing-page) 
