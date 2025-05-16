@@ -7,8 +7,8 @@ import { SiteHeader } from "@/components/site-header"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "FlowSaaS - Streamline Your Workflow",
-  description: "FlowSaaS helps teams collaborate, manage projects, and reach new productivity peaks. Our platform is designed to scale with your business.",
+  title: "GigFin - Streamline Your Workflow",
+  description: "GigFin helps teams collaborate, manage projects, and reach new productivity peaks. Our platform is designed to scale with your business.",
 }
 
 export default function RootLayout({
