@@ -1,4 +1,4 @@
-# FlowSaaS - Modern SaaS Landing Page
+# GigFin - Modern SaaS Landing Page
 
 A modern, responsive SaaS landing page built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion. This template provides a beautiful and customizable starting point for your SaaS product.
 
